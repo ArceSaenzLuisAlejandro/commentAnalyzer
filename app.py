@@ -5,7 +5,7 @@ import os
 import pandas as pd
 from operator import index
 
-import open_ai
+# import open_ai
 
 import dash
 import dash_bootstrap_components as dbc
